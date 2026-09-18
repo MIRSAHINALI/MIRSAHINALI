@@ -1,16 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E3A8A&height=180&text=MIR%20SAHIN%20ALI&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&desc=Computer%20Science%20Engineer%20%7C%20AI%20%26%20Cyber%20Defence&descSize=20&descAlign=50&descAlignY=70&descColor=93C5FD" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E3A8A&height=180&text=MIR%20SAHIN%20ALI&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&desc=Computer%20Science%20Engineer%20%7C%20AI%20%7C%20Cyber%20Defence&descSize=20&descAlign=50&descAlignY=70&descColor=93C5FD" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=B.Tech+CSE+Student+%7C+2027+Graduate;AI+%2F+ML+%7C+Cyber+Defence+%7C+Networking;Exploring+Multi-Agent+Reinforcement+Learning;Building+Practical+Software+%26+Intelligent+Systems;Python+%7C+C%2B%2B+%7C+Java+%7C+SQL+%7C+Git" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=B.Tech+CSE+Student+%7C+2027+Graduate;AI+%2F+ML+%7C+Cyber+Defence+%7C+Networking;Exploring+Multi-Agent+Reinforcement+Learning;Building+Practical+Software+and+Intelligent+Systems;Python+%7C+C%2B%2B+%7C+Java+%7C+SQL+%7C+Git" alt="Typing SVG"/>
+
 </a>
 
 <br/>
 
-![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-1E3A8A?style=for-the-badge\&labelColor=0F172A)
-![Focus](https://img.shields.io/badge/FOCUS-AI%20%7C%20CYBER%20DEFENCE-1E3A8A?style=for-the-badge\&labelColor=0F172A)
-![Views](https://komarev.com/ghpvc/?username=MIRSAHINALI\&style=for-the-badge\&color=1E3A8A\&labelColor=0F172A)
+![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-1E3A8A?style=for-the-badge&labelColor=0F172A)
+![Focus](https://img.shields.io/badge/FOCUS-AI%20%7C%20CYBER%20DEFENCE-1E3A8A?style=for-the-badge&labelColor=0F172A)
+![Views](https://komarev.com/ghpvc/?username=MIRSAHINALI&style=for-the-badge&color=1E3A8A&labelColor=0F172A)
 
 </div>
 
