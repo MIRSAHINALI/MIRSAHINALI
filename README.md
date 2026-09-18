@@ -131,7 +131,7 @@ Hello! I'm **Mir Sahin Ali**, a Computer Science & Engineering student passionat
 
 <br/>
 
-## 🏆 GitHub Trophies
+
 
 <!-- <div align="center">
 
