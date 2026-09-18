@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E3A8A&height=180&text=MIR%20SAHIN%20ALI&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&desc=Computer%20Science%20Engineer%20%7C%20AI%20%7C%20Cyber%20Defence&descSize=20&descAlign=50&descAlignY=70&descColor=93C5FD" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E3A8A&height=180&text=MIR%20SAHIN%20ALI&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&desc=Computer%20Science%20Student%20%7C%20Full%20Stack%20%7C%20AI%20%7C%20Networking&descSize=20&descAlign=50&descAlignY=70&descColor=93C5FD" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=B.Tech+CSE+Student+%7C+2027+Graduate;Full+Stack+%2F+ML+%7C+Networking+%7C+Networking;Exploring+Multi-Agent+Reinforcement+Learning;Building+Practical+Software+and+Intelligent+Systems;Python+%7C+C%2B%2B+%7C+Java+%7C+SQL+%7C+Git" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=B.Tech+CSE+Student+%7C+2027+Graduate;Full+Stack+%7C+ML+%7C+Networking;Exploring+Multi-Agent+Reinforcement+Learning;Building+Practical+Software+and+Intelligent+Systems;Python+%7C+C%2B%2B+%7C+Java+%7C+SQL+%7C+Git" alt="Typing SVG"/>
 
 </a>
 
