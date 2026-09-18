@@ -133,11 +133,11 @@ Hello! I'm **Mir Sahin Ali**, a Computer Science & Engineering student passionat
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=MIRSAHINALI&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 
-</div>
+</div> -->
 
 <br/>
 
